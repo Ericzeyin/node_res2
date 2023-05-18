@@ -81,6 +81,7 @@
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@fontsource/inter": "^4.0.0",
+    "@jiker/superset-echarts-plugin": "^2.8.2",
     "@superset-custom/plugin-chart-waterfall": "^0.15.4",
     "@superset-ui/chart-controls": "file:./packages/superset-ui-chart-controls",
     "@superset-ui/core": "file:./packages/superset-ui-core",
